@@ -1,2 +1,5 @@
 projectName:
     type: str
+    
+_jinja_extensions:
+    - jinja_markdown.MarkdownExtension
